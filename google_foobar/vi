@@ -1,0 +1,9 @@
+
+def find_triplets(l):
+
+
+
+def solution(l):
+
+
+solution([1, 2, 3, 4, 5, 6]) 
